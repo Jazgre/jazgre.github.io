@@ -1,1 +1,1 @@
-Estoy aprendiendo sobre desarrollo web, por lo cual es algos super basico
+Estoy aprendiendo sobre desarrollo web, por lo cual es algo super basico
